@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Sunday46fu.github.io/Zazu.com/sitemap.xml
